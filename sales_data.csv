@@ -1,0 +1,11 @@
+Date,Customer_ID,Category,Quantity,Unit_Price,Invoice_ID
+2023-01-01,1,Grocery,10,20,101
+2023-01-02,2,Clothing,5,50,102
+2023-01-03,3,Electronics,2,200,103
+2023-01-04,1,Grocery,8,25,104
+2023-01-05,2,Clothing,3,60,105
+2023-01-06,4,Grocery,6,30,106
+2023-01-07,5,Electronics,1,250,107
+2023-01-08,3,Clothing,4,55,108
+2023-01-09,2,Grocery,7,22,109
+2023-01-10,1,Clothing,2,65,110
