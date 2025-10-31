@@ -1,0 +1,21 @@
+Customer_ID,Age,Monthly_Charges,Tenure_Months,Contract_Type,Churn
+1,25,20,5,Month-to-Month,1
+2,45,80,40,One year,0
+3,35,50,20,Month-to-Month,1
+4,50,90,60,Two year,0
+5,23,25,6,Month-to-Month,1
+6,40,65,35,One year,0
+7,30,45,15,Two year,0
+8,60,100,70,Two year,0
+9,28,30,10,Month-to-Month,1
+10,48,75,50,One year,0
+11,33,55,22,Two year,0
+12,55,85,65,Two year,0
+13,31,60,28,One year,0
+14,26,35,12,Month-to-Month,1
+15,42,70,45,One year,0
+16,37,52,18,Month-to-Month,1
+17,29,40,14,One year,0
+18,53,88,68,Two year,0
+19,34,49,21,Month-to-Month,1
+20,41,72,42,One year,0
