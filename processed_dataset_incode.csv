@@ -1,0 +1,11 @@
+EmployeeID,Name,Age,Department,Salary,JoinDate,Active,Tenure_Years,Missing_Critical
+101,Alice Johnson,29.0,HR,52000.0,2018-03-15,1,7.69,False
+102,Robert Brown,,Finance,58000.0,2019-07-22,1,6.34,True
+103,Emily Davis,41.0,IT,72000.0,2016-11-01,0,9.06,False
+104,Michael Lee,35.0,IT,68000.0,2017-05-19,1,8.51,False
+105,Sarah Wilson,,HR,49500.0,,0,,True
+106,Daniel White,50.0,Finance,83000.0,2014-09-10,1,11.2,False
+107,Chris Evans,28.0,Marketing,45200.0,2020-01-05,1,5.88,False
+108,Emma Thomas,32.0,Marketing,47000.0,2019-12-11,0,5.95,False
+109,Olivia Clark,,HR,51000.0,,1,,True
+110,Liam Walker,38.0,IT,76000.0,2015-08-30,0,10.23,False
